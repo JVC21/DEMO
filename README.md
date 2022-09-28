@@ -1,3 +1,8 @@
 # README
-## HTML Structure
-Estructura del HTML
+
+## HTML
+
+> NavBar
+>> Logo
+>> Toggle Nav
+>> Links
