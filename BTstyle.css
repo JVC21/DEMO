@@ -2,6 +2,10 @@ body.body-light {
 	background-color: #CCCCCC;
 }
 
+body.body-dark {
+	background-color: #333333;
+}
+
 .container-fluid.cards-container {
 	margin: 10px 0;
 }
